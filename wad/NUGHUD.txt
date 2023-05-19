@@ -1,0 +1,84 @@
+; ------------------------------------------------------------------------------
+; Nugget Doom's NUGHUD guide
+; https://github.com/MrAlaux/Nugget-Doom/blob/master/docs/nughud.md
+
+
+; offset for weapon sprites
+nughud_weapheight 10
+
+; enable the mugshot
+nughud_face_x 143
+
+; disable the frags count
+nughud_frags_x -1
+
+
+; disable widescreen alignment for most widgets
+nughud_ammo_wide 0
+nughud_health_wide 0
+nughud_frags_wide 0
+nughud_face_wide 0
+nughud_armor_wide 0
+nughud_key0_wide 0
+nughud_key1_wide 0
+nughud_key2_wide 0
+nughud_ammo0_wide 0
+nughud_ammo1_wide 0
+nughud_ammo2_wide 0
+nughud_ammo3_wide 0
+nughud_maxammo0_wide 0
+nughud_maxammo1_wide 0
+nughud_maxammo2_wide 0
+nughud_maxammo3_wide 0
+nughud_sts_wide 0
+nughud_time_wide 0
+nughud_title_wide  0
+
+
+; statusbar (and frags) background
+nughud_patch1_x 0
+nughud_patch1_y 168
+nughud_patch1_wide 0
+nughud_patch1_name "STBAR"
+
+
+; arms panel background
+nughud_patch2_x 104
+nughud_patch2_y 168
+nughud_patch2_wide 0
+nughud_patch2_name "STARMS"
+
+
+; custom position for weaponslots (to accomodate for slots 8/9)
+nughud_arms2_x 108
+nughud_arms2_y 170
+nughud_arms2_wide 0
+
+nughud_arms3_x 120
+nughud_arms3_y 170
+nughud_arms3_wide 0
+
+nughud_arms4_x 135
+nughud_arms4_y 172
+nughud_arms4_wide 0
+
+nughud_arms5_x 111
+nughud_arms5_y 182
+nughud_arms5_wide 0
+
+nughud_arms6_x 123
+nughud_arms6_y 182
+nughud_arms6_wide 0
+
+nughud_arms7_x 135
+nughud_arms7_y 182
+nughud_arms7_wide 0
+
+nughud_arms8_x 114
+nughud_arms8_y 173
+nughud_arms8_wide 0
+
+nughud_arms9_x 126
+nughud_arms9_y 173
+nughud_arms9_wide 0
+
