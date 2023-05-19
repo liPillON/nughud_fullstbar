@@ -8,7 +8,7 @@ a fullscreen variant of the classic DOOM stbar, powered by Nugget Doom
 
 ## Features:
 - the classic Doom statusbar, now available in fullscreen mode
-- weaponslot 8 & 9 are integrated in the stock arms panel
+- weapon slots 8 & 9 are integrated in the stock arms panel
 - adjusted position for mapname/time/stats widget
 
 
