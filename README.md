@@ -13,7 +13,7 @@ a fullscreen variant of the classic DOOM stbar, powered by Nugget Doom
 
 
 ## Limitations:
-- this is a singleplayer-only HUD, since NUGHUD does not display FRAGS and MUGSHOT in the same place
+- this is a singleplayer-only HUD, since NUGHUD does not support displaying the FRAGS and MUGSHOT widgets both in the same place simultaneously
 
 
 ## Downloads:
