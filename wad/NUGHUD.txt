@@ -23,7 +23,10 @@
 nughud_percents 1
 
 ; Upwards offset to apply to weapon sprites
-nughud_weapheight 3
+nughud_weapheight -3
+
+; Upwards offset to apply to player's view (eg: keep the crosshair in the same position when switching between statusbar and hud)
+nughud_viewoffset 0
 
 ; Ignore offsets when drawing patches
 nughud_patch_offsets 1
