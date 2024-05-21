@@ -14,7 +14,8 @@ a fullscreen variant of the classic DOOM stbar, powered by Nugget Doom
 
 
 ## Limitations:
-- this is a singleplayer-only HUD, since NUGHUD does not support displaying the FRAGS and MUGSHOT widgets both in the same place simultaneously
+- this is a HUD intended for singleplayer use
+- for optimal results, use the "dark overlay" automap mode
 - widescreen-compatible (wider than 320 pixels) statusbars lumps negate the effect of this mod
 
 
