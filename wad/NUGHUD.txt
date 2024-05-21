@@ -108,6 +108,7 @@ nughud_face_x           143
 nughud_face_y           168
 nughud_face_wide        0
 nughud_face_bg          0
+nughud_frags_x         -1
 
 
 ; ------------------------------------------------------------------------------
